@@ -3,3 +3,7 @@ faiss-cpu
 wikipedia 
 transformers
 accelerate
+rank_bm25
+ragas
+datasets 
+langchain-google-genaipython-dotenv

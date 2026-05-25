@@ -1,0 +1,5 @@
+{
+  "model_name": "all-MiniLM-l6-v2",
+  "num_chunks": 443,
+  "dim": 384
+}
